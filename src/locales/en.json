@@ -1,0 +1,26 @@
+{
+  "count":{
+    "hours": "Hours | Hour | Hours | Hours",
+    "seconds": "seconds | second | seconds | seconds"
+    },
+    "menu":{
+      "home": "Home",
+      "settings": "Settings"
+    },
+    "settings": {
+      "scan_period": "Scan Period",
+      "main_dir_source": "Source Directory",
+      "main_dir_dest": "Destination Directory",
+      "success_file": "Sound \"Success\"",
+      "fail_file": "Sound \"Fail\""
+    },
+    "titles": {
+      "settings": "Settings",
+      "disable": "Disable",
+      "disabled": "Disabled"
+    },
+    "buttons": {
+      "add": "Add",
+      "back": "Back"
+    }
+  }
